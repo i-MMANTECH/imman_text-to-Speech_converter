@@ -50,4 +50,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 Feel free to modify or expand this description based on the specific details and features of your project.
 
-Copyright (C) imman_tech 2024
+(C) Copyright imman_tech 2024
